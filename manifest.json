@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-weekly-digest",
+  "name": "Weekly Digest Auto-Generator",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Scans last 7 daily notes and auto-generates a week-in-review note: tag frequency, task completion, most linked pages.",
+  "author": "moxieworks",
+  "authorUrl": "https://github.com/moxieworks",
+  "isDesktopOnly": false
+}
